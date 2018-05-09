@@ -1,0 +1,10 @@
+{
+  "name": "MemCachier Spring Boot Tutorial",
+  "description": "Java Spring Boot app for a tutorial on using Spring Boot, MemCachier and Heroku together",
+  "keywords": ["java", "spring", "memcache", "memcached", "memcachier", "caching", "tutorial", "performance" ],
+  "logo": "https://www.memcachier.com/assets/logo-large.png",
+  "image": "heroku/java",
+  "website": "https://www.memcachier.com",
+  "repository": "https://github.com/memcachier/examples-spring-boot",
+  "addons": [ "heroku-postgresql:hobby-dev", "memcachier" ],
+}
