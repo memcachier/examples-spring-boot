@@ -3,7 +3,7 @@
 This is an example Spring Boot 2 (Spring Framework 5) task list app that uses
 the [MemCachier add-on](https://addons.heroku.com/memcachier) on
 [Heroku](http://www.heroku.com/). A running version of this app can be
-found [here](http://memcachier-examples-spring-boot.herokuapp.com).
+found [here](http://memcachier-examples-spring.herokuapp.com).
 
 Detailed instructions for developing this app are available
 [here](https://devcenter.heroku.com/articles/spring-boot-memcache).
